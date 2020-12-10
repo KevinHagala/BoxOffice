@@ -1,0 +1,11 @@
+C:\Users\opilane\source\repos\BoxOffice\BoxOffice\bin\Debug\netcoreapp2.1\BoxOffice.deps.json
+C:\Users\opilane\source\repos\BoxOffice\BoxOffice\bin\Debug\netcoreapp2.1\BoxOffice.runtimeconfig.json
+C:\Users\opilane\source\repos\BoxOffice\BoxOffice\bin\Debug\netcoreapp2.1\BoxOffice.runtimeconfig.dev.json
+C:\Users\opilane\source\repos\BoxOffice\BoxOffice\bin\Debug\netcoreapp2.1\BoxOffice.dll
+C:\Users\opilane\source\repos\BoxOffice\BoxOffice\bin\Debug\netcoreapp2.1\BoxOffice.pdb
+C:\Users\opilane\source\repos\BoxOffice\BoxOffice\obj\Debug\netcoreapp2.1\BoxOffice.csprojAssemblyReference.cache
+C:\Users\opilane\source\repos\BoxOffice\BoxOffice\obj\Debug\netcoreapp2.1\BoxOffice.csproj.CoreCompileInputs.cache
+C:\Users\opilane\source\repos\BoxOffice\BoxOffice\obj\Debug\netcoreapp2.1\BoxOffice.AssemblyInfoInputs.cache
+C:\Users\opilane\source\repos\BoxOffice\BoxOffice\obj\Debug\netcoreapp2.1\BoxOffice.AssemblyInfo.cs
+C:\Users\opilane\source\repos\BoxOffice\BoxOffice\obj\Debug\netcoreapp2.1\BoxOffice.dll
+C:\Users\opilane\source\repos\BoxOffice\BoxOffice\obj\Debug\netcoreapp2.1\BoxOffice.pdb
